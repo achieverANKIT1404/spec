@@ -1,4 +1,4 @@
-# Score
+# Scores
 
 ![Score banner](/docs/images/banner.png)
 
